@@ -4,7 +4,7 @@ This is a simple to do list app that you can add and remove from.
 
 I wrote this to better understand JavaScript.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/pOJxkHSwZ38)
 
 # Development Environment
 
